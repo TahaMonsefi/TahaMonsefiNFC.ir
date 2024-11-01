@@ -1,0 +1,27 @@
+body {
+    background-color: #292929;
+}
+
+.touch-card-body {
+    background-color: #808080;
+    border-radius: 0 0 30px 30px;
+    min-height: 75vh;
+}
+
+.touch-card-header{
+    width: 100%;
+    background-color: black;
+    border-radius: 0 0 30px 30px;
+}
+
+.touch-card-header img {
+    width: 100px;
+}
+
+.touch-card-header h2 {
+    color: white;
+    border-radius: 10px;
+    border-bottom: 2px solid #ff9100;
+    text-align: center;
+    font-size: 1.5rem;
+}
